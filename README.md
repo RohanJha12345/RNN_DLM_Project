@@ -3,7 +3,9 @@ Contributors:
 
 Dimple(055009)
 Rohan Jha(055057)
-Objective
+
+
+#**Objective**
 The primary objective of this project is to design, implement, and evaluate a deep learning-based sentiment analysis model using an RNN architecture. This model aims to classify movie reviews based on their sentiment (positive or negative) by leveraging the sequential patterns present in text data. The project aims to develop a model that can accurately and efficiently classify reviews, providing insights into public opinion and sentiment trends.
 
 Data Description
